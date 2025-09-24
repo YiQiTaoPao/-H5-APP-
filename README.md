@@ -8,7 +8,12 @@
 
 咨询源码获取更多
 www.51duoke.cn/games/?id=1
-
+前端页面展示：
+https://github.com/YiQiTaoPao/game-dailian-/blob/main/111.png
+https://github.com/YiQiTaoPao/game-dailian-/blob/main/22.png
+https://github.com/YiQiTaoPao/game-dailian-/blob/main/33.png
+https://github.com/YiQiTaoPao/game-dailian-/blob/main/44.png
+https://github.com/YiQiTaoPao/game-dailian-/blob/main/55.png
 该系统支持个人工作室自己接单、安排打手服务;也支持工会或其他工作室入驻,邀请注册成为自己的专属客户,下单只归属该工作室或工会自己，平台只抽取提成佣金。符合现今市场上的业务需求。
 多客陪玩系统介绍该系统支持个人工作室自己接单、安排打手服务;也支持工会或其他工作室入驻,邀请注册成为自己的专属客户,下单只归属该工作室或工会自己，平台只抽取提成佣金。符合现今市场上的业务需求。
 
