@@ -1,4 +1,4 @@
-<img width="1314" height="820" alt="image" src="https://github.com/user-attachments/assets/8323e03d-874f-4d47-bbd5-58a8b856f2fb" />三角洲电竞俱乐部代练护航跑单公众号小程序系统源码，可用于代练陪玩（H5+小程序+APP）
+三角洲电竞俱乐部代练护航跑单公众号小程序系统源码，可用于代练陪玩（H5+小程序+APP）
 
 三角洲护航跑刀陪玩电竞代练代打综合型服务平台，主要为用户提供游戏陪练、代练以及相关服务;功能全面、技术先进能够满足用户在游戏陪练、线下陪玩及其他个性化服务方面的需求;基于先进的PHP技术和 Uni-app框架开发，支持多端同步,包括服务号端、小程序端、H5端以及PC端，能够快速打包生成APP，为用户提供便捷、高效的代练体验。
 
@@ -6,14 +6,16 @@
 平台单: 用户选择游戏类目·选择所需服务-支付下单-客服分配打手-打手接单-上传完成订单截图.客服审核完成进度-结算打手佣金-结单
 工会单: 用户选择游戏类目-选择所需服务-支付下单-工会客服分配打手-工会打手接单-上传完成订单截图-工会客服审核完成进度-结算打手佣金-结单
 
-咨询源码获取更多
+### 咨询查看商业版演示
+![image](https://github.com/user-attachments/assets/43fcb0f3-d5c5-4c50-b4aa-bc9a55c3121b)
 www.51duoke.cn/games/?id=1
 前端页面展示：
-https://pica.zhimg.com/v2-b2cd259acc5017579221b445755c0694_1440w.jpg
-https://pic1.zhimg.com/v2-a4022113f90e14f110ccc6a5ae3310e6_1440w.jpg
-https://pica.zhimg.com/v2-70bf098c82be9985cee484969143e93e_1440w.jpg
-https://pic2.zhimg.com/v2-9499c29f0e1114c35b12a550c73fc09d_1440w.jpg
-https://pic4.zhimg.com/v2-21fb73df80d5203d23b8d75d529811bf_1440w.jpg
+
+![image](https://pica.zhimg.com/v2-b2cd259acc5017579221b445755c0694_1440w.jpg)
+![image](https://pic1.zhimg.com/v2-a4022113f90e14f110ccc6a5ae3310e6_1440w.jpg)
+![image](https://pica.zhimg.com/v2-70bf098c82be9985cee484969143e93e_1440w.jpg)
+![image](https://pic2.zhimg.com/v2-9499c29f0e1114c35b12a550c73fc09d_1440w.jpg)
+![image](https://pic4.zhimg.com/v2-21fb73df80d5203d23b8d75d529811bf_1440w.jpg)
 
 该系统支持个人工作室自己接单、安排打手服务;也支持工会或其他工作室入驻,邀请注册成为自己的专属客户,下单只归属该工作室或工会自己，平台只抽取提成佣金。符合现今市场上的业务需求。
 多客陪玩系统介绍该系统支持个人工作室自己接单、安排打手服务;也支持工会或其他工作室入驻,邀请注册成为自己的专属客户,下单只归属该工作室或工会自己，平台只抽取提成佣金。符合现今市场上的业务需求。
